@@ -1,2 +1,2 @@
 # hello-world
-for school!
+starting this project a little late, but surely i'll finish before the deadline. 
